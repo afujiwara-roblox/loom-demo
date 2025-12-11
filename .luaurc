@@ -1,0 +1,8 @@
+{
+    "languageMode": "strict",
+    "aliases": {
+        "toml": "Packages/toml/src",
+        "pretty-print": "Packages/pretty-print/src",
+        "base64": "Packages/base64/src"
+    }
+}
